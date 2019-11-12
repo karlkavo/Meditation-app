@@ -1,3 +1,3 @@
 # meditation-app
-Meditation app tutorial
+JS Meditation app project
 
